@@ -1,0 +1,1 @@
+print("Formatador ABNT iniciado!")
