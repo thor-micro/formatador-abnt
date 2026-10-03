@@ -1,3 +1,4 @@
+    main()print("Formatador ABNT iniciado!")
 from pathlib import Path
 
 
@@ -27,4 +28,3 @@ def main():
 
 
 if __name__ == "__main__":
-    main()print("Formatador ABNT iniciado!")
